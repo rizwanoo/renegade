@@ -16,7 +16,6 @@ rustc-ice-*
 
 # cursor + vim
 .idea
-.vscode
 *.sw[a-p]
 .cursor/commands
 .cursor/rules
@@ -29,3 +28,7 @@ secrets.env
 
 # macos
 **/.DS_Store
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
